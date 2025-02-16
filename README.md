@@ -5,7 +5,7 @@
 - Bot, Gemini-1.5-Flash modelinin API’sini kullanarak gelen verilerle yanıt veriyor. 
 - Uygulama, Coroutine ve Room kullanarak veritabanı işlemleriyle veri akışını yönetiyor.
 
---
+- ----
 
 - I used the Gemini-1.5-Flash model, offered free of charge by Google, in the artificial intelligence chat application I developed with the Kotlin programming language. 
 - Users store their chat history in the Room database. 
